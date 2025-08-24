@@ -1,4 +1,4 @@
-# Netflix-Data-Ananlysis
+# Netflix-Data-Analysis
 Data analysis and visualization of Netflix titles using Python (Pandas + Matplotlib).
 # 📊 Netflix Data Analysis with Matplotlib
 Exploratory Data Analysis (EDA) of Netflix dataset using Python, Pandas, and Matplotlib.  
