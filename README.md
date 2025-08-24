@@ -16,7 +16,7 @@ This project visualizes trends in Netflix content such as Movies vs TV Shows, co
 - Movies vs TV Shows trend over time  
 
 ### Sample Plots:
-![Movies vs TV Shows](https://github.com/Priyankit07/Netflix-Data-Ananlysis/blob/main/Tv%20shows%20vs%20movies.png)
+[View TV Shows vs Movies plot](https://github.com/Priyankit07/Netflix-Data-Ananlysis/blob/main/Tv%20shows%20vs%20movies.png)
 [View Percentage of Content Rating plot](https://github.com/Priyankit07/Netflix-Data-Ananlysis/blob/main/Percentage%20of%20content%20rating.png)
 ## 🛠️ Tools & Libraries
 - Python 3
